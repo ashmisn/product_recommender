@@ -1,12 +1,17 @@
-# React + Vite
+AI Product Recommender
+This is a simple web application that uses the Google Gemini AI to provide personalized product recommendations.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Required Packages & Installation
+This project is built with Node.js and requires npm for package management.
 
-Currently, two official plugins are available:
+1. Standard Dependencies
+First, install all the standard project dependencies (like React) defined in the package.json file. Run this command in your project's root directory:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+npm install
 
-## Expanding the ESLint configuration
+2. AI SDK
+This project communicates with the Google Gemini API using a specific software development kit (SDK). If it was not installed with the command above, you can install it directly:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+npm install @google/generative-ai
+
+After running these commands, your project will have all the necessary packages to run locally.
