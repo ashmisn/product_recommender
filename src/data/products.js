@@ -1,0 +1,58 @@
+export const products = [
+  {
+    id: 1,
+    name: "QuantumCore Laptop",
+    category: "Electronics",
+    price: 1200,
+    description: "A high-performance laptop for gaming and professional work, with 16GB RAM and 1TB SSD.",
+  },
+  {
+    id: 2,
+    name: "EchoSphere Smart Speaker",
+    category: "Electronics",
+    price: 99,
+    description: "A voice-controlled smart speaker with deep bass and 360-degree audio.",
+  },
+  {
+    id: 3,
+    name: "AeroGlide Drone",
+    category: "Electronics",
+    price: 450,
+    description: "A beginner-friendly drone with a 4K camera and 30-minute flight time.",
+  },
+  {
+    id: 4,
+    name: "Classic Cotton T-Shirt",
+    category: "Apparel",
+    price: 25,
+    description: "A comfortable and stylish t-shirt made of 100% premium cotton. Available in blue.",
+  },
+  {
+    id: 5,
+    name: "Leather Messenger Bag",
+    category: "Accessories",
+    price: 150,
+    description: "A vintage-style leather bag perfect for carrying laptops and documents.",
+  },
+  {
+    id: 6,
+    name: "Zenith Smartwatch",
+    category: "Electronics",
+    price: 299,
+    description: "Track your fitness and stay connected with this sleek smartwatch.",
+  },
+  {
+    id: 7,
+    name: "Budget Gamer Laptop",
+    category: "Electronics",
+    price: 750,
+    description: "A powerful laptop for gamers on a budget, featuring a dedicated graphics card.",
+  },
+  {
+    id: 8,
+    name: "Red Graphic T-Shirt",
+    category: "Apparel",
+    price: 30,
+    description: "A vibrant red t-shirt with a cool graphic design.",
+  },
+];
