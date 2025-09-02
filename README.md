@@ -1,3 +1,9 @@
+SAMPLE OUTPUTS HAVE  BEEN ATTACHED AS output and output2 png files
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0213128-5587-47a8-980d-60fb8e7999d0" />
+
+
+
 AI Product Recommender
 This is a simple web application that uses the Google Gemini AI to provide personalized product recommendations.
 
